@@ -5,7 +5,8 @@
 <details open="open">
   <summary>Contents</summary>
   <ol>
-    <li><a href="#about">About</a></li>
+    <li><a href="#github-lives-pages">GitHub Live Pages</a></li>
+    <li><a href="#about">About This Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#user-stories">User Stories</a></li>
     <li><a href="#technical-aspects">Technical Aspects</a></li>
@@ -18,7 +19,7 @@
 
 https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
 
-## About The Project
+## About This Project
 
 ![Bookmark Application](https://github.com/aniledev/elinam-bookmark-app/blob/gh-pages/bookmark-app.png?raw=true)
 
