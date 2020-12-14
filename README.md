@@ -23,6 +23,8 @@ https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
 
 In this project, I created an API powered bookmark application. The project has a RESTful API and allows for full CRUD actions. Use this bookmark app to collected websites and links you want to share or come back to while clicking through the web. 
 
+</br>
+
 ![Bookmark Application](https://github.com/aniledev/elinam-bookmark-app/blob/gh-pages/bookmark-app.png?raw=true)
 
 
