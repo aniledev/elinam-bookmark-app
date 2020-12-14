@@ -1,21 +1,22 @@
 # API Powered Bookmark Application
 
-## GitHub Live Pages
-
-https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
-
 <!-- TABLE OF CONTENTS -->
+## Contents 
 <details open="open">
   <summary>Contents</summary>
   <ol>
-    <li><a href="#about">Usage</a></li>
-    <li><a href="#built-with">Roadmap</a></li>
-    <li><a href="#user-stories">Contributing</a></li>
-    <li><a href="#technical-aspects">License</a></li>
-    <li><a href="#upcoming-features">Contact</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#built-with">Built With</a></li>
+    <li><a href="#user-stories">User Stories</a></li>
+    <li><a href="#technical-aspects">Technical Aspects</a></li>
+    <li><a href="#upcoming-features">Upcoming Features</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+## GitHub Live Pages
+
+https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
 
 ## About The Project
 
