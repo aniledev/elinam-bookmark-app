@@ -16,7 +16,7 @@ const generateAddForm = function () {
       />
       <label for="url">URL</label>
       <input
-       type="text"
+       type="url"
         id="url"
         class="url"
         name="url" minlength="5"
