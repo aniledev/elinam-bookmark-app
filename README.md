@@ -20,16 +20,16 @@
 
 https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
 
-</br>
+<br>
 ## About This Project
 
 In this project, I created an API powered bookmark application. The project has a RESTful API and allows for full CRUD actions. Use this bookmark app to collected websites and links you want to share or come back to while clicking through the web. 
 
-</br>
+<br>
 
 ![Bookmark Application](https://github.com/aniledev/elinam-bookmark-app/blob/gh-pages/bookmark-app.png?raw=true)
 
-</br>
+<br>
 ## Built With
 
 This application is an API powered bookmark creation app that relies on:
@@ -38,7 +38,7 @@ This application is an API powered bookmark creation app that relies on:
 * [Node](https://nodejs.org/)
 * [Webpack](https://webpack.js.org/)
 
-</br>
+<br>
 ## User Stories
 
 #### As a user:
@@ -52,7 +52,7 @@ This application is an API powered bookmark creation app that relies on:
 - I receive appropriate feedback when I cannot submit a bookmark.
 - I can select from a dropdown a "minimum rating" to filter the list by all bookmarks rated at or above the chosen selection.
 
-</br>
+<br>
 ## Technical Aspects
 
 - Use fetch for AJAx calls and jQuery for DOM manipulation
@@ -63,14 +63,14 @@ This application is an API powered bookmark creation app that relies on:
 - Responsive and mobile-first design
 - Follows a11y best practices
 
-</br>
+<br>
 ## Upcoming Features
 
 - User can update rating and description input
 - Expand all/Collapse all button at the top of the home page
 
 <!-- ACKNOWLEDGEMENTS -->
-</br>
+<br>
 ## Acknowledgements
 * [Normalize.css](https://necolas.github.io/normalize.css/)
 * [Font Awesome](https://fontawesome.com)
