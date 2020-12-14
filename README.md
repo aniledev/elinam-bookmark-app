@@ -4,6 +4,19 @@
 
 https://thinkful-ei-unicorn.github.io/elinam-bookmark-app/
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Contents</summary>
+  <ol>
+    <li><a href="#about">Usage</a></li>
+    <li><a href="#built-with">Roadmap</a></li>
+    <li><a href="#user-stories">Contributing</a></li>
+    <li><a href="#technical-aspects">License</a></li>
+    <li><a href="#upcoming-features">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
 ## About The Project
 
 ![Bookmark Application](https://github.com/aniledev/elinam-bookmark-app/blob/gh-pages/bookmark-app.png?raw=true)
@@ -31,8 +44,6 @@ This application is an API powered bookmark creation app that relies on:
 - I can remove bookmarks from my bookmark list.
 - I receive appropriate feedback when I cannot submit a bookmark.
 - I can select from a dropdown a "minimum rating" to filter the list by all bookmarks rated at or above the chosen selection.
-
-## Usage
 
 ## Technical Aspects
 
